@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.2">
+        <ModelTarget name="WiiController" targetId="dca800e6017b44948900828816cb2ee8" version="14.0" toolVersion="v7.2.2" bbox="-0.024017 -0.246845 -0.058643 0.087290 0.229287 0.055684" trackingMode="car" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="WiiController" assemblyId="8c6094977624488a83fcf8b25a884ad0">
+        <Part name="WiiController" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

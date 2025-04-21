@@ -72,3 +72,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+# Ignorar paquet Vuforia pesat
+AR_WiiSkinChange/Packages/com.ptc.vuforia.engine-11.1.3.tgz
