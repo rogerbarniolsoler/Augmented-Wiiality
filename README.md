@@ -1,7 +1,7 @@
 # AR_WiiSkinChange
 
 Falta aquest arxiu: com.ptc.vuforia.engine-11.1.3.tgz <br>
-A la direcció següent: AR_WiiSkinChange/Packages
+A la direcció següent: Augmented-Wiiality/Packages
 
 Descarregar des del següent enllaç de drive: [https://drive.google.com/file/d/11MX1VVGCHnXQoIXb0AvLFGnytoRV1y_E/view?usp=sharing](https://drive.google.com/file/d/11MX1VVGCHnXQoIXb0AvLFGnytoRV1y_E/view?usp=sharing)
 
